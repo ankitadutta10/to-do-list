@@ -18,5 +18,4 @@ A simple and elegant To-Do List application with a modern UI for adding and mana
 ## 📦 Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
+   https://github.com/ankitadutta10/to-do-list.git
